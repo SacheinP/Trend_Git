@@ -5,3 +5,7 @@
 "Git is an online platform"
 Git is updated 
 >>>>>>> 182a87de56fbba61bfc178473ae9e1845ae950e9
+git helps in project to make changes
+
+
+
