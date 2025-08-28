@@ -1,1 +1,2 @@
-"Git is an online platform"
+"git is a version control software"
+"git is a good platform"
