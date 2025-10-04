@@ -1,0 +1,4 @@
+abc.txt
+*.js
+*.spec.js
+node.modules/
